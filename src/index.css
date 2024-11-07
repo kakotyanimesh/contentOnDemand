@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'CabinetGrotesk';
+  src: url('./assets/CabinetGrotesk-Black.otf');
+}
+
+@font-face {
+  font-family: 'Hoover';
+  src: url('./assets/Hoover-Medium.ttf');
+}
+
