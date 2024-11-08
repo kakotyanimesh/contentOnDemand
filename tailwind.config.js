@@ -11,6 +11,9 @@ export default {
         "CabinetGrotesk" : ["CabinetGrotesk", 'sans-serif'],
         'interLogo' : ['interLogo', 'sans-serif'],
         'Hoover' : ['Hoover', 'sans-serif']
+      },
+      animation : {
+        'spin-slow' : 'spin 10s linear infinite'
       }
     },
   },

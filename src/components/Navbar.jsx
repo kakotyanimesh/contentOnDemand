@@ -40,7 +40,7 @@ const Navbar = () => {
                 :
                 <>
                   <NavLinks/>
-                  <ButtonCompo bgColor="#a3de9b" textContent={'Buy A Bundle'}/> 
+                  <ButtonCompo bgColor="#a3de9b" textContent={'BUT A BUNDLE'}/> 
                 </>
               }
                 </>
