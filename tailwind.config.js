@@ -10,7 +10,8 @@ export default {
       fontFamily : {
         "CabinetGrotesk" : ["CabinetGrotesk", 'sans-serif'],
         'interLogo' : ['interLogo', 'sans-serif'],
-        'Hoover' : ['Hoover', 'sans-serif']
+        'Hoover' : ['Hoover', 'sans-serif'],
+        'jakarta' : ['jakarta']
       },
       animation : {
         'spin-slow' : 'spin 10s linear infinite'
