@@ -1,5 +1,5 @@
 import { animate, easeIn, motion } from 'framer-motion'
-import giff from '../assets/giff.WEBP'
+// import giff from '../assets/images/giff.WEBP'
 import { div, p, text } from 'framer-motion/client'
 import one from '../assets/images/one.avif'
 import two from '../assets/images/two.png'

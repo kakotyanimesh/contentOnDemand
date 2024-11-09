@@ -1,4 +1,4 @@
-import gif from '../assets/giff.webp'
+import gif from '../assets/images/giff.WEBP'
 import spinThingy from '../assets/spinThingy.png'
 import { ButtonCompo } from './Button'
 
