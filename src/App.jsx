@@ -15,7 +15,7 @@ const App = () => {
       <Navbar/>
       <Home/> 
       <Morque/>
-      {/* <TakeAction/> */}
+      <TakeAction/>
       <OrderSlip/>
       <Pricing/>
       <Experience/>
