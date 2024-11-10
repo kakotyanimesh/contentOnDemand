@@ -4,7 +4,6 @@ import { Home } from './components/Home'
 import {Morque} from './components/Morque'
 import {TakeAction} from './components/TakeAction'
 import { OrderSlip } from './components/OrderSlip'
-import { Praise } from './components/Praises'
 import { Pricing } from './components/Pricing'
 import { Experience } from './components/Experience'
 import { Questions } from './components/Questions'
@@ -16,9 +15,8 @@ const App = () => {
       <Navbar/>
       <Home/> 
       <Morque/>
-      <TakeAction/>
+      {/* <TakeAction/> */}
       <OrderSlip/>
-      {/* <Praise/> */}
       <Pricing/>
       <Experience/>
       <Questions/>
