@@ -4,7 +4,8 @@ import { Home } from './components/Home'
 import {Morque} from './components/Morque'
 import {TakeAction} from './components/TakeAction'
 import { OrderSlip } from './components/OrderSlip'
-import { Example } from './components/Praises'
+import { Praise } from './components/Praises'
+import { Pricing } from './components/Pricing'
 
 
 const App = () => {
@@ -15,7 +16,8 @@ const App = () => {
       <Morque/>
       <TakeAction/>
       <OrderSlip/>
-      <Example/>
+      {/* <Praise/> */}
+      <Pricing/>
       
     </div>
   )
