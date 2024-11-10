@@ -6,6 +6,8 @@ import {TakeAction} from './components/TakeAction'
 import { OrderSlip } from './components/OrderSlip'
 import { Praise } from './components/Praises'
 import { Pricing } from './components/Pricing'
+import { Experience } from './components/Experience'
+import { Questions } from './components/Questions'
 
 
 const App = () => {
@@ -18,6 +20,8 @@ const App = () => {
       <OrderSlip/>
       {/* <Praise/> */}
       <Pricing/>
+      <Experience/>
+      <Questions/>
       
     </div>
   )
